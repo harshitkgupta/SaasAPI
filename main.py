@@ -1,4 +1,4 @@
-from text_analyze import grab_text_from_article, ner_with_counts, pos_with_lemma
+from text_analyze.text_analyze import grab_text_from_article, ner_with_counts, pos_with_lemma
 
 
 from fastapi import FastAPI
